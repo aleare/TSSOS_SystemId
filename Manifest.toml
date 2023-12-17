@@ -1,0 +1,13 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.9.4"
+manifest_format = "2.0"
+project_hash = "dd8fbf3ca333d8f9f717d8be1f620c41bbf15a1a"
+
+[[deps.Libdl]]
+uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[[deps.Zlib_jll]]
+deps = ["Libdl"]
+uuid = "83775a58-1f1d-513f-b197-d71354ab007a"
+version = "1.2.13+0"
